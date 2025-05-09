@@ -32,6 +32,7 @@ libtest-pod-perl   \
 libunicode-string-perl \
 libencode-imaputf7-perl \
 libregexp-common-perl \
+libfile-tail-perl \ 
 liburi-perl    libwww-perl 
 
 RUN wget -N https://imapsync.lamiral.info/dist/imapsync
