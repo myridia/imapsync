@@ -1,3 +1,4 @@
+<img src="imapsync.svg" alt="imapsync" width="120">
 # imapsync
 With this tool, you can transfer and sync an IMAP email account with all its folder structure from one server to another IMAP account on a different server 
 
